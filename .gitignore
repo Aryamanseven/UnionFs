@@ -1,0 +1,3 @@
+mini_unionfs
+unionfs_test_env/
+*.o
